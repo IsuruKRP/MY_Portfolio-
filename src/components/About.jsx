@@ -52,6 +52,7 @@ const About = () => {
             <img
               src={aboutImg}
               alt="About Isuru"
+              loading="lazy"
               className="relative w-full h-full object-cover rounded-2xl"
               style={{ border: '1px solid rgba(124,58,237,0.3)' }}
             />
