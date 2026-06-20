@@ -26,9 +26,7 @@ const Hero = () => {
             animate="visible"
             className="flex-1 text-center lg:text-left"
           >
-            <motion.div variants={fadeUp(0)} className="mb-4">
-              <span className="tag">Available for opportunities</span>
-            </motion.div>
+            
 
             <motion.h1
               variants={fadeUp(0.1)}
