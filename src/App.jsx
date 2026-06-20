@@ -9,6 +9,7 @@ import Technologies from './components/Technologies';
 import Project from './components/Project';
 import Research from './components/Research';
 import Contact from './components/Contact';
+import Education from './components/Education';
 
 const App = () => {
   const [scrolled, setScrolled] = useState(false);
@@ -43,10 +44,12 @@ const App = () => {
       <main>
         <section id="home"><Hero /></section>
         <section id="about"><About /></section>
+        <section id="education"><Education /></section>
         <section id="experience"><Experience /></section>
         <section id="technologies"><Technologies /></section>
         <section id="projects"><Project /></section>
         <section id="research"><Research /></section>
+        
         <section id="contact"><Contact /></section>
       </main>
 

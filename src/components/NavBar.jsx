@@ -5,6 +5,7 @@ import { RiMenu3Line, RiCloseLine, RiCodeSSlashLine } from 'react-icons/ri';
 const links = [
   { label: 'Home',         href: '#home' },
   { label: 'About',        href: '#about' },
+  { label: 'Education',    href: '#education' },
   { label: 'Experience',   href: '#experience' },
   { label: 'Skills',       href: '#technologies' },
   { label: 'Projects',     href: '#projects' },

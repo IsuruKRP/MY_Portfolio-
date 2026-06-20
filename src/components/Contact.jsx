@@ -23,6 +23,7 @@ const contactItems = [
     value: CONTACT.email,
     href: `mailto:${CONTACT.email}`,
   },
+  
 ];
 
 const socials = [
@@ -50,7 +51,7 @@ const Contact = () => {
         </h2>
         <div className="section-divider" />
         <p className="text-slate-500 text-sm mt-5 max-w-md mx-auto">
-          Whether you have a project, opportunity, or just want to say hi — my inbox is always open.
+          Whether you have a project, opportunity, or just want to say hi  my inbox is always open.
         </p>
       </motion.div>
 

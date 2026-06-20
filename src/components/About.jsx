@@ -5,7 +5,7 @@ import { RiUserLine, RiMapPinLine, RiMailLine, RiPhoneLine } from 'react-icons/r
 
 const stats = [
   { value: '1+',  label: 'Years Experience' },
-  { value: '3+',  label: 'Projects Built' },
+  { value: '5+',  label: 'Projects Built' },
   { value: '2',   label: 'Companies' },
   { value: '10+', label: 'Technologies' },
 ];
